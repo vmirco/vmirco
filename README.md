@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center"> This is Mirco ✌️ </h1>
 
-  ![vibe](https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif?cid=ecf05e47dzdotpye2dgsmjitizwxzjwn5ieiuzsvk68pepqg&rid=giphy.gif&ct=g)
-
-  <h3 align="center"> Part time Computer Science student - Full time vibin' </h3>
+  ![vibe](https://media4.giphy.com/media/F9hQLAVhWnL56/giphy.gif?cid=ecf05e47pg29j39fxcass24z7ztpluwde8aga4bpqqjfa4oy&rid=giphy.gif&ct=g)
+  
+  <h3 align="center"> Part time Computer Science student - Full time viber' </h3>
   
 </div>
 <br>
