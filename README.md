@@ -6,6 +6,7 @@
   <h3 align="center"> Part time Computer Science student - Full time vibin' </h3>
   
 </div>
+<br>
 
 - 🌱 I’m currently studying at [University of Genoa](https://unige.it/en/)
 
