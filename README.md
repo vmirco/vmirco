@@ -3,7 +3,7 @@
 
   ![vibe](https://media4.giphy.com/media/F9hQLAVhWnL56/giphy.gif?cid=ecf05e47pg29j39fxcass24z7ztpluwde8aga4bpqqjfa4oy&rid=giphy.gif&ct=g)
   
-  <h3 align="center"> Part time Computer Science student - Full time viber' </h3>
+  <h3 align="center"> Part time Computer Science student - Full time vibing' </h3>
   
 </div>
 <br>
