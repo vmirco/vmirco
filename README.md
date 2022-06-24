@@ -1,5 +1,11 @@
-<h1 align="center"> This is Mirco ✌️ </h1>
-<h3 align="center"> Part time Computer Science student - Full time vibin' </h3>
+<div align="center">
+  <h1 align="center"> This is Mirco ✌️ </h1>
+
+  ![vibe](https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif?cid=ecf05e47dzdotpye2dgsmjitizwxzjwn5ieiuzsvk68pepqg&rid=giphy.gif&ct=g)
+
+  <h3 align="center"> Part time Computer Science student - Full time vibin' </h3>
+  
+</div>
 
 - 🌱 I’m currently studying at [University of Genoa](https://unige.it/en/)
 
