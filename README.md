@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying at [University of Genoa](https://unige.it/en/)
 
-- 📫 How to reach me **mircovella00@gmail.com / vellamirco@libero.it**
+- 📫 How to reach me **mircovellainfo@gmail.com / vellamirco@libero.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
